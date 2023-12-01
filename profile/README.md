@@ -1,7 +1,7 @@
 # CherryCode
 
 
-CherryCode는 누구나 자신의 코드를 올릴수 있는 온라인 저지 사이트입니다.
+CherryCode는 누구나 자신의 코드를 테스트 할 수 있는 온라인 저지 사이트입니다.
 
 ## Getting Started / 어떻게 시작하나요?
 
