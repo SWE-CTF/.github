@@ -67,6 +67,7 @@ CherryCode는 누구나 자신의 코드를 테스트 할 수 있는 온라인 �
    jwt.secret.key = 256bit의 문자열
    ```
 6. 설정이 완료되면 CtfApplication을 실행합니다.
+7. 웹 백엔드 서버가 켜지고 프론트에서 접속한 사이트로 사용하면 됩니다.
 
 
 ### Prerequisites / 선행 조건
