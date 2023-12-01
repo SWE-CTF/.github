@@ -99,10 +99,18 @@ Node 18.17.1 이상, JDK 11 (temurin), mysql 8.0.35-0 이상
 + 공지사항
 + 마이 페이지
 
-## Technology / 기술
+## Front-End Technology / 프론트 기술
 
-+ NodeJS axios를 사용한 Springboot와 통신
-+ JWT를 이용한 웹 보안
-+ Async 방식 코드 컴파일러
-+ AWS EC2를 통한 서버 배포
++ NodeJS axios 통신
 + monaco editor를 사용한 코드에디터 구현
+
+## Back-End Technology / 백엔드 기술
++ Spring boot 2.7.16 (SnapShot)
++ Spring Data JPA
++ Spring Security
++ JWT
++ SWAGGER
++ AWS EC2
+
+## Caution / 주의사항
++ c 언어 코드 제출의 경우 로컬 환경이 linux여야 실행이 됩니다.
