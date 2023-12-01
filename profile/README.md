@@ -1,6 +1,7 @@
 # CherryCode
-
-
+<img width="1280" alt="KakaoTalk_20231201_175544671" src="https://github.com/SWE-CTF/.github/assets/123055298/6b803ab2-3d5b-416d-b7f5-b0435eda7aae">
+<img width="1280" alt="KakaoTalk_20231201_175517814" src="https://github.com/SWE-CTF/.github/assets/123055298/e0169605-727e-4d00-841b-0a5e599160ec">
+<p></p>
 CherryCode는 누구나 자신의 코드를 테스트 할 수 있는 온라인 저지 사이트입니다.
 
 ## Getting Started / 어떻게 시작하나요?
