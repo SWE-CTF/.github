@@ -41,9 +41,9 @@ CherryCode는 누구나 자신의 코드를 테스트 할 수 있는 온라인 �
 
 먼저, 해당 레포지토리에서 프로젝트를 받고 시작하세요.
 
-1. master 브랜치에서 프로젝트를 받아오세요.
+1. develop 브랜치에서 프로젝트를 받아오세요.
    ```
-   git clone -b master --single-branch https://github.com/SWE-CTF/backend.git
+   git clone -b develop --single-branch https://github.com/SWE-CTF/backend.git
    ```
 2. 다음 디렉토리로 이동합니다.
    ```
